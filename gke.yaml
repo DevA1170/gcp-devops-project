@@ -20,3 +20,4 @@ spec:
           - name: PORT
             value: "5000"
     replicas: 1
+    
